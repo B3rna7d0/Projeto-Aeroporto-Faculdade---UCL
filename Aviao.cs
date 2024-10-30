@@ -5,7 +5,7 @@ namespace Aeroporto_Projeto{
         private double peso;
         private int capacidade;
         private int tanque;
-        private int capacidadeMalas;
+        private int capacidadeMalas; // Em KG
 
         public Aviao(string nome, double peso, int capacidade, int tanque, int capacidadeMalas)
         {
